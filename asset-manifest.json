@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Superforest-Three-Build/static/css/main.49695350.chunk.css",
+    "main.js": "/Superforest-Three-Build/static/js/main.963dc4da.chunk.js",
+    "main.js.map": "/Superforest-Three-Build/static/js/main.963dc4da.chunk.js.map",
+    "runtime-main.js": "/Superforest-Three-Build/static/js/runtime-main.2fbef3c8.js",
+    "runtime-main.js.map": "/Superforest-Three-Build/static/js/runtime-main.2fbef3c8.js.map",
+    "static/js/2.63d175fa.chunk.js": "/Superforest-Three-Build/static/js/2.63d175fa.chunk.js",
+    "static/js/2.63d175fa.chunk.js.map": "/Superforest-Three-Build/static/js/2.63d175fa.chunk.js.map",
+    "static/js/3.3fd55083.chunk.js": "/Superforest-Three-Build/static/js/3.3fd55083.chunk.js",
+    "static/js/3.3fd55083.chunk.js.map": "/Superforest-Three-Build/static/js/3.3fd55083.chunk.js.map",
+    "index.html": "/Superforest-Three-Build/index.html",
+    "static/css/main.49695350.chunk.css.map": "/Superforest-Three-Build/static/css/main.49695350.chunk.css.map",
+    "static/js/2.63d175fa.chunk.js.LICENSE.txt": "/Superforest-Three-Build/static/js/2.63d175fa.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Superforest-Three-Build/static/media/bankgothiclightbt.01830e18.ttf",
+    "static/media/Logo_light.f47eb0ab.mp4": "/Superforest-Three-Build/static/media/Logo_light.f47eb0ab.mp4",
+    "static/media/Dropdown.css": "/Superforest-Three-Build/static/media/select-arrow.fa562dc4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fbef3c8.js",
+    "static/js/2.63d175fa.chunk.js",
+    "static/css/main.49695350.chunk.css",
+    "static/js/main.963dc4da.chunk.js"
+  ]
+}
